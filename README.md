@@ -16,7 +16,7 @@ A python3 Morpion game
 </div>
 
 ```bash
-wget https://raw.githubusercontent.com/NullBrunk/Morpion/main/install.sh
+wget https://raw.githubusercontent.com/Anasi10/Morpion/main/install.sh
 chmod +x install.sh
 ./install.sh install
 
